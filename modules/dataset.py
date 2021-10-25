@@ -6,7 +6,6 @@ import torch
 import pandas as pd
 
 from itertools import chain
-from pandas.core.algorithms import mode
 
 from torch.utils.data import Dataset
 from transformers import PreTrainedTokenizerFast
