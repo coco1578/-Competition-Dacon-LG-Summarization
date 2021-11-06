@@ -1,6 +1,6 @@
 # Dacon LG Summarization 대회
 
-### 최종 순위 Private 32
+### 최종 순위 Private 32 상위 7~8%
 ---
 
 - 그 동안, Computer Vision 쪽 딥러닝 모델만 공부하다 처음 도전한 NLP 대회에서 개인적으로 나쁘지 않았다(?) 정도의 성적을 거둘 수 있어서 만족스러운 대회.
